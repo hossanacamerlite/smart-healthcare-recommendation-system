@@ -1,0 +1,91 @@
+[
+    {
+        "disease": "Fungal infection",
+        "symptoms": [
+            "itching",
+            "skin rash",
+            "nodal skin eruptions"
+        ],
+        "precautions": [
+            "bath twice",
+            "use dettol",
+            "take vitamin c",
+            "keep area dry"
+        ]
+    },
+    {
+        "disease": "Allergy",
+        "symptoms": [
+            "continuous sneezing",
+            "shivering",
+            "chills"
+        ],
+        "precautions": [
+            "apply calamine",
+            "take antihistamines",
+            "avoid known allergens"
+        ]
+    },
+    {
+        "disease": "Gastroenteritis",
+        "symptoms": [
+            "vomiting",
+            "sunken eyes",
+            "dehydration"
+        ],
+        "precautions": [
+            "drink ogi water",
+            "take electrolyte solution",
+            "rest",
+            "consume bland diet"
+        ]
+    },
+    {
+        "disease": "Malaria",
+        "symptoms": [
+            "fever",
+            "chills",
+            "sweating",
+            "headache",
+            "nausea"
+        ],
+        "precautions": [
+            "consult nearest hospital",
+            "avoid oily food",
+            "avoid non veg food",
+            "keep mosquitoes out"
+        ]
+    },
+    {
+        "disease": "Drug Reaction",
+        "symptoms": [
+            "itching",
+            "skin rash",
+            "stomach pain",
+            "burning sensation"
+        ],
+        "precautions": [
+            "stop taking drug",
+            "find alternative",
+            "consult doctor",
+            "stop alcohol consumption"
+        ]
+    },
+    {
+        "disease": "Typhoid",
+        "symptoms": [
+            "chills",
+            "vomiting",
+            "fatigue",
+            "high fever",
+            "headache",
+            "nausea"
+        ],
+        "precautions": [
+            "eat high calorie food",
+            "antipyretic medicine",
+            "consult doctor",
+            "take washed vegetables"
+        ]
+    }
+]
